@@ -1,6 +1,6 @@
 # Twincy Prajapati - Business System Analyst
 ## 👩🏻‍💻About Me
-Hello everyone! My name is Twincy, and this is my portfolio. I have a background in computer engineering and business analysis. You can see more information in my [Resume](CV link).
+Hello everyone! My name is Twincy, and this is my portfolio. I have a background in computer engineering and business analysis. You can see more information in my [Resume](https://github.com/Twincy-Prajapati/Twincy-Prajapati/blob/main/Twincy%20Prajapati_BA_Resume.pdf).
 
 ## 📃Contents
 - [About Me](#about-me)
