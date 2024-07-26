@@ -13,7 +13,7 @@
 - [Contacts](#contacts)
   
 ## 🛡️ Skills
--**Documentation:**  Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
+- **Documentation:**  Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 -	**Tools:** Balsamiq, Microsoft Axure, Microsoft Visio, Visual Paradigm, JIRA, Power BI, ERP, Google Docs, Canvas, Figma.
 -	**Operating System:**  Windows
 -	**Languages:** working knowledge of SQL, HTML, CSS
