@@ -13,6 +13,12 @@ Hello everyone! My name is Twincy, and this is my portfolio. I have a background
 - [Contacts](#contacts)
   
 ## Skills
+•	Documentation:  Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
+•	Tools: Balsamiq, Microsoft Axure, Microsoft Visio, Visual Paradigm, JIRA, Power BI, ERP, Google Docs, Canvas, Figma.
+•	Operating System:  Windows
+•	Languages: working knowledge of SQL, HTML, CSS
+•	SDLC Methodologies: Waterfall and Agile 
+•	Soft skills: Communication skills, Presentation, Strong problem-solving capabilities, attention to detail, Client-focused approach, strong team player, flexibility, and adaptability.
 
 ## 📊Portfolio Projects
 ### Project 1: Analysis of XYZ Data
