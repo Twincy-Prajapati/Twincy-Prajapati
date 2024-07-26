@@ -3,7 +3,7 @@
 ## 👩🏻‍💻About Me
 Hello everyone! My name is Twincy, and this is my portfolio. I have a background in computer engineering and business analysis. You can see more information in my [CV](CV link).
 
-##📃 Contents
+## 📃Contents
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - [Project 1: Analysis of XYZ Data](#project-1-analysis-of-xyz-data)
@@ -26,7 +26,7 @@ Hello everyone! My name is Twincy, and this is my portfolio. I have a background
 - **Description:** This repository contains tasks completed during a Python Data Analysis course.
 - **Repository:** [python-data-analysis](python-data-analysis)
 
-## 🎓 Certificates
+## 🎓Certificates
 - [BA Udemy Certificate.pdf](https://github.com/Twincy-Prajapati/Twincy-Prajapati/blob/10e0413fe1fe878b8e5ed04b2de8dfe6df4dd695/BA%20Udemy%20Certificate.pdf)
 
 ## 📞Contacts
