@@ -26,7 +26,7 @@ Hello everyone! My name is Twincy, and this is my portfolio. I have a background
 - **Repository:** [python-data-analysis](python-data-analysis)
 
 ## 🎓Certificates
-- [BA Udemy Certificate](https://github.com/Twincy-Prajapati/Twincy-Prajapati/blob/10e0413fe1fe878b8e5ed04b2de8dfe6df4dd695/BA%20Udemy%20Certificate.pdf) Udemy,2023
+- [BA Udemy Certificate](https://github.com/Twincy-Prajapati/Twincy-Prajapati/blob/main/Certificates/BA%20Udemy%20Certificate.pdf) Udemy,2023
 - [Business Analysis With PowerBI And Scrum Master](https://github.com/Twincy-Prajapati/Twincy-Prajapati/blob/main/Certificates/Business%20Analysis%20With%20Power%20Bi%20And%20Scrum%20Master.pdf) Techno Canada, 2023 
 
 ## 📞Contacts
